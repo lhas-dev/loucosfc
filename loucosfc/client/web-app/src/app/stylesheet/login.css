@@ -1,0 +1,23 @@
+.box__login .avatar {
+    margin-top: -70px;
+    margin-bottom: 2em;
+    padding-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box__login .avatar img {
+    padding: 5px;
+    background: #fff;
+    border-radius: 50%;
+    -webkit-box-shadow: 0 2px 3px rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.1);
+    box-shadow: 0 2px 3px rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.1);
+}
+.box__login {
+  margin-top: 5rem;
+}
+.box__login input, .box__login input::placeholder {
+    font-weight: 300;
+}
+.login__footer {
+    font-weight: 700;
+}

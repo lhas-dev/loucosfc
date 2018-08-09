@@ -1,5 +1,7 @@
 import LoginRoute from './LoginRoute';
+import SignupRoute from './SignupRoute';
 
-export default {
+export {
     LoginRoute,
+    SignupRoute,
 };
